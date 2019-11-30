@@ -1,1 +1,2 @@
 # AtCoderTags-Helper
+AtCoderTagsへのTag投票を、AtCoder問題ページからTagを選ぶだけで投票できるようにします。
