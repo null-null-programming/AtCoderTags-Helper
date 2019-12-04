@@ -45,8 +45,8 @@ $('#copyright').append(`<div style="padding-top:5rem">
 (async function() {
   const tag = [
     'Searching', 'Greedy-Methods', 'String', 'Mathematics', 'Graph',
-    'Dynamic-Programming', 'Data-Structure', 'Game', 'Flow-Algorithms',
-    'Geometry'
+    'Technique', 'Construct', 'Dynamic-Programming', 'Data-Structure', 'Game',
+    'Flow-Algorithms', 'Geometry'
   ];
   $('#input_tag').autocomplete({
     source: tag,
