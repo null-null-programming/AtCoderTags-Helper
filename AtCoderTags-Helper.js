@@ -6,9 +6,7 @@
 // @match        https://*/tasks/*
 // @grant        none
 // @namespace    https://github.com/null-null-programming/AtCoderTags-Helper
-// @description
-// AtCoderTagsへのTag投票を、AtCoder問題ページからTagを選ぶだけで投票できるようにします。
-// @description AtCoderTagsへのTag投票を、AtCoder問題ページからTagを選ぶだけで投票できるようにします。
+// @description  AtCoderTagsへのTag投票を、AtCoder問題ページからTagを選ぶだけで投票できるようにします。
 // ==/UserScript==
 
 $('#copyright').append(`
